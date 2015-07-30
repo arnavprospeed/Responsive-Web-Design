@@ -1,0 +1,128 @@
+
+@media screen and (max-resolution:131dpi){
+
+  @media screen and (max-device-width:320px){
+    #wrapper{
+      margin-left: auto;
+      margin-right: auto;
+      width:960px;
+    }
+
+  }
+  @media screen and (min-device-width:321px) and (max-device-width:480px){
+
+    h1{
+      color:#FF0000;
+
+    }
+  }
+
+  @media screen and (min-device-width:481px) and (max-device-width:1024px){
+      
+  }
+
+  @media screen and (min-device-width:1025px) and (max-device-width:1279px){
+
+  }
+
+  @media screen and (min-device-width:1280px){
+    body{
+      background-color: #ebebeb;
+    }
+    #wrapper{
+      margin-left: auto;
+      margin-right: auto;
+      width:960px;
+      background-color:#FFFFFF;
+    }
+    header{
+      background-color: #CC0000;
+    }
+    nav ul{
+      list-style-type: none;
+    }
+    nav li{
+      display:inline;
+    }
+    aside{
+      float: left;
+      padding-left: 2%;
+      width:25%;
+      background-color:#FFFFFF;
+    }
+    section{
+      float:right;
+      width:70%;
+      background-color:#FFFFFF;
+    }
+    footer{
+      text-align: center;
+      align-items: center;
+    }
+
+    }
+  }
+}
+@media screen and (min-resolution:132dpi) and (max-resolution:341dpi){
+  @media screen and (max-device-width:320px){
+    #wrapper{
+      margin-left: auto;
+      margin-right: auto;
+      width:960px;
+    }
+  }
+  @media screen and (min-device-width:321px) and (max-device-width:480px){
+
+  }
+
+  @media screen and (min-device-width:481px) and (max-device-width:768px){
+
+  }
+
+  @media screen and (min-device-width:767px) and (max-device-width:960px){
+
+  }
+
+  @media screen and (min-device-width:1080){
+
+  }
+
+}
+
+@media screen and (min-resolution:341dpi){
+  @media screen and (max-device-width:320px){
+    #wrapper{
+
+    }
+    #header{
+
+    }
+    #nav{
+
+    }
+    #aside{
+
+    }
+    #section{
+
+    }
+    #footer{
+
+    }
+  }
+  @media screen and (min-device-width:321px) and (max-device-width:480px){
+
+  }
+
+  @media screen and (min-device-width:481px) and (max-device-width:768px){
+
+  }
+
+  @media screen and (min-device-width:767px) and (max-device-width:960px){
+
+  }
+
+  @media screen and (min-device-width:1080){
+
+  }
+}
